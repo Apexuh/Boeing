@@ -116,5 +116,5 @@ if __name__ == '__main__':
 
 # boeing.print_scheme()
 # [print(*i) for i in boeing.scheme_airplane]
-# print(boeing.request_with_all_wishes('2 left left')) # Проверет если ввели повторные значения
+# print(boeing.request_with_all_wishes('2 left left')) # Проверит если ввели повторные значения
 # print(boeing.request_with_all_wishes('2 left aisle'))
